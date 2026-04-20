@@ -56,3 +56,30 @@
   </tr>
 </table>
 
+## 3. Запуск приложения
+
+<table cellpadding="10">
+  <tr>
+    <td><img width="1915" height="1013" alt="image" src="https://github.com/user-attachments/assets/fb71d599-a549-4d7a-9ea2-65034c5514fd" /></td>
+  </tr>
+</table>
+
+## 4. Проверка HTTPS-маршрута
+
+<table cellpadding="10">
+  <tr>
+    <td><img width="974" height="523" alt="image" src="https://github.com/user-attachments/assets/75337c3a-0e0d-465a-b4b3-d1751d72ef22" /></td>
+  </tr>
+</table>
+
+<table cellpadding="10">
+  <tr>
+    <td><img width="974" height="522" alt="image" src="https://github.com/user-attachments/assets/f51033f2-6726-4138-9ea4-fe0df04200ef" /></td>
+  </tr>
+</table>
+
+<table cellpadding="10">
+  <tr>
+    <td><img width="974" height="516" alt="image" src="https://github.com/user-attachments/assets/0eb85b1c-f5ca-4310-a037-e944a1ed55da" /></td>
+  </tr>
+</table>
