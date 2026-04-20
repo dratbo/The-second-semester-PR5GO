@@ -42,6 +42,8 @@
 
 ## 2. Генерация учебного TLS-сертификата
 
+С помощью треёх запретных букв скачали openssl, указали путь PATH, прописали команду `openssl req -x509 -newkey rsa:2048 -nodes -keyout certs/server.key -out certs/server.crt -days 365 -subj "/CN=localhost"`
+
 <table cellpadding="10">
   <tr>
     <td><img width="1915" height="1015" alt="image" src="https://github.com/user-attachments/assets/f4e7d5ba-120c-45fe-87f7-f14a7e92596b" /></td>
